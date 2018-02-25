@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App1 Using Google Place API</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

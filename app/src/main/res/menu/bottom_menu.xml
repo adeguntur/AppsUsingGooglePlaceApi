@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_bandara"
+        android:enabled="true"
+        android:icon="@drawable/plane"
+        android:title="Bandara"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_bus"
+        android:enabled="true"
+        android:icon="@drawable/bus"
+        android:title="Terminal Bus"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_police"
+        android:enabled="true"
+        android:icon="@drawable/pol"
+        android:title="Kantor Polisi"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_hospital"
+        android:enabled="true"
+        android:icon="@drawable/rmh"
+        android:title="Rumah Sakit"
+        app:showAsAction="ifRoom" />
+
+</menu>
