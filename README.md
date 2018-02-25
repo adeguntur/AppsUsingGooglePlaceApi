@@ -1,6 +1,10 @@
 # AppsUsingGooglePlaceApi
-1.
-# ScreenShoot
+Cara Menggunakan Aplikasi :
+1.Pastikan Terhubung ke Jaringan internet dan Menyalakan data lokasi (GPS).
+2.Pada Tampilan awal akan menunjukan lokasi anda sekarang.
+3.Jika Tombol Bandara yang ada dibawah dikilik maka akan muncul data bandara terdekat yang dilambangkan oleh gambar pesawat.
+4.Jika Gambar pesawat dikilik maka akan muncul detail informasi mengenai bandara tersebut.
+5.Setalah Detail Informasi muncul, jika diklik BUKA DI GOOGLE MAPS maka tampilan akan menuju aplikasi gooogle maps anda dan anda dapat menuju lokasi tersebut dengan bantuan google maps.
 ## Tampilan Awal
 ![screenshot_20180225-191140](https://user-images.githubusercontent.com/31888923/36641415-a76bea9c-1a61-11e8-9f76-088396af43e3.png)
 ## Menampilkan Bandara
